@@ -70,8 +70,8 @@ This repository contains the work I completed during my internship as a **Backen
 ## 📄 Documentation
 
 - [API Endpoints Documentation](https://spring.io/guides/gs/testing-restdocs)
-- [Blog 1: Spring JPA Annotations (https://medium.com/@zgokceaynaci/spring-jpa-annotations-863574d13121)) 
-- [Blog 2: How to Perform Validation in Spring (https://medium.com/@zgokceaynaci/spring-validations-51784d2a8cd3)
+- Blog 1: Spring JPA Annotations (https://medium.com/@zgokceaynaci/spring-jpa-annotations-863574d13121) 
+- Blog 2: How to Perform Validation in Spring (https://medium.com/@zgokceaynaci/spring-validations-51784d2a8cd3)
 
 ---
 

@@ -50,7 +50,7 @@ This repository contains the work I completed during my internship as a **Backen
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Demo_etiya
    ```
 
 3. Configure the PostgreSQL database:
